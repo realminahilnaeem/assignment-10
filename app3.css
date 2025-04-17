@@ -1,0 +1,81 @@
+.boundary{
+    border:solid black 2px;
+    width: 700px;
+    height: 450px;
+    /* display: flex; */
+}
+.first{
+    width: 700px;
+    height: 150px;
+    background-color: aliceblue;
+
+}
+.second{
+    width: 700px;
+    height: 150px;
+    background-color: blue;
+
+}
+.third{
+    background-color: red;
+    width: 700px;
+    height: 150px;
+}
+h2{
+   text-align: justify;
+}
+.myclass{
+    width: 700px;
+    height: 450px;
+    border: black 2px solid;
+    display: flex;
+    background-color:rgb(255, 253, 253);
+    
+}
+.a{
+    width: 100px;
+    height: 450px;
+ background-color: red;
+  position: absolute;
+  right: 800px;
+   /* top: 0px; */
+}
+
+.b{
+    width: 700px;
+    height: 100px;
+    background-color: red;
+    position:absolute;
+   top: 760px;
+
+}
+/* .c{
+    height: 225px;
+    width:150px ;
+    background-color: red;
+   
+}  */
+
+.main{
+    width:450px;
+    height:450px;
+    border: black 2px solid;
+    display: flex;
+}
+.firstmain{
+    background-color: black;
+    height: 450px;
+    width:150px ;
+}
+.secondmain{
+    background-color: yellow;
+    height: 450px;
+    width:150px ;
+}
+.thirdmain{
+    background-color: red;
+    height: 450px;
+    width:150px ;
+}
+
+
